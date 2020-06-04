@@ -1,6 +1,14 @@
 [
 {
 "id":1,
-"state":1
+"state":"on"
+},
+  {
+"id":2,
+"state":"on"
+},
+  {
+"id":3,
+"state":"on"
 }
 ]
